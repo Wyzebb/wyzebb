@@ -1,22 +1,16 @@
 <h1 align="center">Hi 👋, I'm Wyzebb</h1>
-<h3 align="center">A passionate web and Minecraft plugin developer from the UK</h3>
+<h3 align="center">A web and Minecraft plugin developer from the UK</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wyzebb" alt="wyzebb" /></a> </p>
-
-- 🔭 I’m currently working on [CreeperHeal2 fork](https://github.com/Wyzebb/CreeperHeal2)
+- 🔭 I’m currently working on [CreeperHeal2 plugin fork](https://github.com/Wyzebb/CreeperHeal2)
 
 - 🌱 I’m currently learning **Prisma ORM and PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Wyzebb](https://github.com/Wyzebb)
+- 💬 Ask me about **Minecraft plugins, nextjs, web development**
 
 - 📫 How to reach me **wyzebbmc@gmail.com**
 
-- ⚡ Fun fact **Idk what I'm doing :D**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/wyzebb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wyzebb" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/wyzebb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wyzebb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,7 +18,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/wyzebb"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="wyzebb" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wyzebb&show_icons=true&locale=en&layout=compact" alt="wyzebb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wyzebb&show_icons=true&locale=en" alt="wyzebb" /></p>
