@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Wyzebb</h1>
 <h3 align="center">A web and Minecraft plugin developer from the UK</h3>
 
+<img src="https://raw.githubusercontent.com/wyzebb/wyzebb/output/snake.svg" alt="Snake animation" />
+
 # 💫 About Me:
 🔭 I’m currently working on a portfolio website<br>🌱 I’m currently learning how to develop successful SaaS applications with NextJS, Typescript and Prisma<br>💬 Ask me about making you a Minecraft plugin
 
