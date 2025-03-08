@@ -6,7 +6,7 @@
 ###
 
 # 💫 About Me:
-🔭 I’m currently working on a portfolio website<br>🌱 I’m currently learning how to develop successful SaaS applications with NextJS, Typescript and Prisma<br>💬 Ask me about making you a Minecraft plugin
+🔭 I’m currently working on loads of Minecraft plugins<br>🌱 I’m currently learning how to develop successful SaaS applications with NextJS, Typescript and Prisma<br>💬 Ask me about making you a Minecraft plugin
 
 
 ## 🌐 Socials:
