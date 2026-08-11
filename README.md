@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wyzebb</h1>
-<h3 align="center">A web and Minecraft plugin developer from the UK</h3>
+<h3 align="center">I do a bit of everything - full stack web dev, simulations, Minecraft plugins - you name it!</h3>
 
 <img src="https://raw.githubusercontent.com/wyzebb/wyzebb/output/snake.svg" alt="Snake animation" />
 
@@ -22,7 +22,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=wyzebb&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can support my open source work by donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/wyzebb) 
 
   
