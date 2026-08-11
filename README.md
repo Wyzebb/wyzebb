@@ -21,9 +21,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=wyzebb&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-  ## 💰 You can support my open source work by donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/wyzebb) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
